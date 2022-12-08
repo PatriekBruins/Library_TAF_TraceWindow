@@ -37,7 +37,7 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="ITAFFilteredTrace.lvclass" Type="Parent" URL="../../../Interface_TAF_TraceSubscriptor/ITAFFilteredTrace/ITAFFilteredTrace.lvclass"/>
-		<Item Name="YAFTAF.lvclass" Type="Parent" URL="../../../Library_TAF/YAFTAF/YAFTAF.lvclass"/>
+		<Item Name="YAFTAF.lvclass" Type="Parent" URL="../../../Library_YAF/YAFTAF/YAFTAF.lvclass"/>
 	</Item>
 	<Item Name="TAFTraceWindow.ctl" Type="Class Private Data" URL="TAFTraceWindow.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
